@@ -1,0 +1,16 @@
+{
+  "allowedOrigins": ["https://yourname.netlify.app"],
+  "ownerKey": "CHANGE_ME_OWNER_KEY",
+  "stripeStandardLink": "https://buy.stripe.com/YOUR_PREMIUM_LINK",
+  "stripeCelebLink": "https://buy.stripe.com/YOUR_CELEB_LINK",
+  "adsenseClient": "ca-pub-XXXXXXXXXXXXXXXX",
+  "adsenseSlot": "1234567890",
+  "appSizeKB": 500,
+  "freeBandwidthGB": 100,
+  "installCap": 100000,
+  "seo": {
+    "title": "Starter Coach Pro — Daily Motivation & Habit Tracker (PWA)",
+    "description": "Stay motivated, track your goals, and enjoy celebrity-style coaching. Free to start, upgrade for more features & no ads.",
+    "keywords": "motivation app, habit tracker, daily motivation, productivity app, goal setting, voice coach, PWA"
+  }
+}
