@@ -1,4 +1,4 @@
-const CACHE = const CACHE = 'scp-portable-v2';
+const CACHE = 'scp-portable-v3';
 
 const ASSETS = ['/', '/index.html', '/manifest.webmanifest', '/styles.css', '/app.js', '/config.json'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS))); });
