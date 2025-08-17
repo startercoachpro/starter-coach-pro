@@ -1,7 +1,8 @@
 {
   "allowedOrigins": ["https://starter-coach-pro.netlify.app"],
   "ownerKey": "STAR-COACH-OWNER-123",
-  "stripeStandardLink": "https://buy.stripe.com/test_bJeaEQbufadKahycFVaR202",
+  "stripeStandardLink": "https://buy.stripe.com/test_bJeaEQbUfadKahycFVaR202" ,
+
   "stripeCelebLink": "https://buy.stripe.com/YOUR_CELEB_LINK",
   "adsenseClient": "ca-pub-XXXXXXXXXXXXXXXX",
   "adsenseSlot": "1234567890",
