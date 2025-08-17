@@ -1,6 +1,6 @@
 {
-  "allowedOrigins": ["https://yourname.netlify.app"],
-  "ownerKey": "CHANGE_ME_OWNER_KEY",
+ "allowedOrigins": ["https://starter-coach-pro.netlify.app"],
+  "ownerKey": "STAR-COACH-OWNER-123",
   "stripeStandardLink": "https://buy.stripe.com/YOUR_PREMIUM_LINK",
   "stripeCelebLink": "https://buy.stripe.com/YOUR_CELEB_LINK",
   "adsenseClient": "ca-pub-XXXXXXXXXXXXXXXX",
