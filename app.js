@@ -15,7 +15,7 @@ const STRIPE_CELEB    = cfg.stripeCelebLink   || '#'   ;
   
 
 
-  const STRIPE_CELEB = cfg.stripeCelebLink || '#';
+
   const ADS_CLIENT = cfg.adsenseClient || '';
   const ADS_SLOT = cfg.adsenseSlot || '';
   const APP_KB = cfg.appSizeKB || 500;
