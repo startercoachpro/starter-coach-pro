@@ -10,7 +10,10 @@ if ('serviceWorker' in navigator) {
   const cfg = await fetch('/config.json').then(r=>r.json()).catch(()=>({}));
   const ORIGINS = cfg.allowedOrigins || [];
   const OWNER_KEY = cfg.ownerKey || '';
-  const STRIPE_STANDARD = const STRIPE_STANDARD = "https://buy.stripe.com/test_bJeaEQbUfadKahycFVaR202" ,
+  const STRIPE_STANDARD = cfg.stripeStandardLink || '#';
+const STRIPE_CELEB    = cfg.stripeCelebLink   || '#'   ; 
+  
+
 
   const STRIPE_CELEB = cfg.stripeCelebLink || '#';
   const ADS_CLIENT = cfg.adsenseClient || '';
