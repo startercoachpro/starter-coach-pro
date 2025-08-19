@@ -3,7 +3,7 @@
   "ownerKey": "STAR-COACH-OWNER-123",
   "stripeStandardLink": "https://buy.stripe.com/test_bJeaEQbUfadKahycFVaR202" ,
 
-  "stripeCelebLink": "https://buy.stripe.com/YOUR_CELEB_LINK",
+  "stripeCelebLink": "https://buy.stripe.com/test_bJeaEQbUfadKahycFVaR202",
   "adsenseClient": "ca-pub-XXXXXXXXXXXXXXXX",
   "adsenseSlot": "1234567890",
   "appSizeKB": 500,
