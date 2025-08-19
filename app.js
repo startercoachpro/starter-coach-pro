@@ -1,6 +1,4 @@
-// TEMP: Unregister all old service workers so we always get fresh files
-if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.getRegistrations().then(regs => regs.forEach(r => r.unregister()));
+
 }
 
 (async function(){
